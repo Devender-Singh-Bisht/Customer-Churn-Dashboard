@@ -1,5 +1,3 @@
----
-
 # Customer Churn Dashboard
 
 ## Overview
